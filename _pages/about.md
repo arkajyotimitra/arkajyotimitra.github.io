@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 
-I am a 4th year PhD student in the Computer Science and Engineering ([CSE](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse)) department at [University of Texas at Arlington studying](https://www.uta.edu) studying perception systems and their vulnerabilities against adversarial attacks, achieving safer driving in autonomus vehicles. I am part of [Cyber-physical Systems Security (CSS)](https://csslab.uta.edu) lab where I pursue my research under the guidance of Dr. Habeeb Olufowobi. 
+I am a 4th year PhD student in the Computer Science and Engineering ([CSE](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse)) department at [University of Texas at Arlington](https://www.uta.edu) specializing in perception systems and their resilience against adversarial attacks. My research focus lies in developing attack vectors as well as defenses to ensure that autonomous vehicles can navigate safely in adversarial terrain. 
+I am part of [Cyber-physical Systems Security (CSS)](https://csslab.uta.edu) lab where I pursue my research under the guidance of Dr. Habeeb Olufowobi. 
 
 
 
