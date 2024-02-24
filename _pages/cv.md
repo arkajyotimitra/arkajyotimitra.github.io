@@ -2,44 +2,34 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: false
+author_profile: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
 
-<!-- Education
+Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in CSE, University of Texas at Arlington (UTA), 2025 (expected)
+* M.Tech. in CSE, Indian Institute of Technology (Indian School of Mines) Dhanbad, 2019
+* B.Tech. in CSE, Kalyani Government Engineering College (KGEC), 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2021 - Present: Graduate Teaching Assistant
+  * University of Texas at Arlington
+  * Duties includes: Grading, conducting labs, teaching (doubt solving sessions)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2017 - Fall 2019: Teaching Assistant
+  * IIT (ISM) Dhanbad
+  * Duties included: Grading, conducting labs, teaching
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research article writing
+* Critical Thinking
+* Coding
 
 Publications
 ======
@@ -47,7 +37,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -57,8 +47,10 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams -->
+* Organized workshop about "SmartHome" (2022) and "VehicleSec" (2023,2024) in OurCS@DFW
+* Volunteered in International Conference for High Performance Computing, Networking, Storage, and Analysis (SC22) 
+* Core Volunteer in SCRF and OurCS@DFW (2022)
