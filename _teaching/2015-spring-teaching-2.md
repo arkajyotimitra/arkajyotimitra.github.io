@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Graduate Teaching Assistant"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "IIT(ISM) Dhnabad"
 date: 2015-01-01
-location: "City, Country"
+location: "Arlington, Texas, USA"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
