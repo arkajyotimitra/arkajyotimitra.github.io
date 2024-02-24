@@ -21,8 +21,8 @@ repository               : "arkajyotimitra/arkajyotimitra.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "head_shot_profile.jpg"
+  name             : "Arkajyoti Mitra"
   pronouns         : # example: "she/her"  
   bio              : "Securing Perception Systems in AV"
   location         : "Arlington, TX"
@@ -56,7 +56,7 @@ author:
   # keybase          : # Username
   # instagram        : # Username
   # lastfm           : # Username
-  linkedin         : "www.linkedin.com/in/arkajyoti-mitra"
+  linkedin         : "arkajyoti-mitra"
   # mastodon         : # URL
   # medium           : # URL
   # pinterest        : # Username
