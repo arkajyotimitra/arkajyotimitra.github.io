@@ -12,7 +12,7 @@ title                    : "Arkajyoti Mitra"
 title_separator          : "-"
 name                     : &name "Arkajyoti Mitra"
 description              : &description "PhD student @ UTArlington"
-url                      : https://arkajyotimitra.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://arkajyotimitra.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "arkajyotimitra/arkajyotimitra.github.io"
 
@@ -24,11 +24,11 @@ author:
   avatar           : "head_shot_profile.jpg"
   name             : "Arkajyoti Mitra"
   pronouns         : # example: "she/her"  
-  bio              : "Securing Perception Systems in AV"
+  bio              : "Securing Perception Systems in Autonomous Vehicle"
   location         : "Arlington, TX"
   employer         : "University of Texas at Arlington"
   uri              : # URL
-  email            : "arkajyoti.mitra@uta.edu" 
+  # email            : "arkajyoti.mitra@uta.edu" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
