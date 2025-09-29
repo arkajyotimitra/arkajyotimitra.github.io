@@ -9,15 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<p>
-  <a class="btn btn--primary" href="{{ base_path/files/CV_Arkajyoti_Mitra_research_vision.pdf}}" target="_blank" rel="noopener" download>
-    📄 Download CV (PDF)
-  </a>
-  <br>
-  <small>
-    Last updated: {{ site.time | date: "%B %Y" }} ·
-  </small>
-</p>
+[📄 Download CV (PDF)]({{ '/files/CV_Arkajyoti_Mitra_research_vision.pdf' | relative_url }})
 
 
 Education
