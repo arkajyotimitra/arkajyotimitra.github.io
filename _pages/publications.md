@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can find my articles <a href="{{site.author.googlescholar}}">here</a>.</div>
+  <div class="wordwrap">You can find all my articles <a href="{{site.author.googlescholar}}">here</a>.</div>
 {% endif %}
 
-Publications (Selected)
+Selected Ones:
 ======
 * **Arkajyoti Mitra**, Paul Agbaje, Afia Anjum, Mert D. Pesé, Habeeb Olufowobi. *FedVLM: Scalable Personalized Vision-Language Models through Federated Learning*. **ECAI 2025** (Accepted).  
 * **Arkajyoti Mitra**, Pedram MohajerAnsari, Mert D. Pesé, Habeeb Olufowobi. *Beyond the Glow: Adversarial Analysis of Luminescent Markers in Autonomous Vehicle Perception Systems*. **USENIX VehicleSec 2025**.  
