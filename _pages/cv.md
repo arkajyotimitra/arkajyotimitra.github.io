@@ -9,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-[📄 Download CV (PDF)]({{ '/files/CV_Arkajyoti_Mitra_research_vision.pdf' | relative_url }})
+[PDF]({{ '/files/CV_Arkajyoti_Mitra_research_vision.pdf' | relative_url }})
 
+Last update: September 2025. 
 
 Education
 ======
