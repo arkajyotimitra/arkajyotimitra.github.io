@@ -9,8 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV.
-<!-- [here]("https://github.com/arkajyotimitra/arkajyotimitra.github.io/blob/master/files/CV_Arkajyoti_Mitra_research_vision.pdf") -->
+<p>
+  <a class="btn btn--primary" href="{{ base_path/files/CV_Arkajyoti_Mitra_research_vision.pdf}}" target="_blank" rel="noopener" download>
+    📄 Download CV (PDF)
+  </a>
+  <br>
+  <small>
+    Last updated: {{ site.time | date: "%B %Y" }} ·
+  </small>
+</p>
+
 
 Education
 ======
