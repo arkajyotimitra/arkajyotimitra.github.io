@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<!-- You can find my CV [here]("arkajyotimitra.github.io/files/CV_Arkajyoti_Mitra_research_vision.pdf") -->
+
 Education
 ======
 * Ph.D in CSE, University of Texas at Arlington (UTA), 2025 (expected)
