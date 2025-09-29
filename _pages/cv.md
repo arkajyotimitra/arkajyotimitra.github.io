@@ -17,9 +17,9 @@ Last update: September 2025.
 Education
 ======
 * **Ph.D. in Computer Science and Engineering**, University of Texas at Arlington, USA — *Expected 2025*  
-  GPA: 3.9/4.0  
+
 * **M.Tech. in Computer Science and Engineering**, Indian Institute of Technology (Indian School of Mines), Dhanbad, India — *2019*  
-  CGPA: 8.65/10  
+
 * **B.Tech. in Computer Science and Engineering**, Kalyani Government Engineering College, India — *2016*  
 
 Work Experience
