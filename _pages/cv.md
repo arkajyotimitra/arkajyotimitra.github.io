@@ -57,10 +57,10 @@ Awards & Scholarships
 
 Service & Leadership
 ======
-* Volunteer — *USENIX VehicleSec 2024*  
+* Volunteer — *NDSS VehicleSec 2024*  
 * Volunteer — *SC 2022*  
 * Core Volunteer — SCRF & OurCS@DFW (2022)  
-* Organized Workshops — “SmartHome” (2022), “VehicleSec” (2023, 2024) at OurCS@DFW 
+* Organized Workshops at UTArlington — “SmartHome” (2022), “VehicleSec” (2023, 2024) at OurCS@DFW 
 
 <!-- Education
 ======
@@ -102,8 +102,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
 * Organized workshop about "SmartHome" (2022) and "VehicleSec" (2023,2024) in OurCS@DFW
 * Volunteered in International Conference for High Performance Computing, Networking, Storage, and Analysis (SC22) 
-* Core Volunteer in SCRF and OurCS@DFW (2022)
+* Core Volunteer in SCRF and OurCS@DFW (2022) -->
