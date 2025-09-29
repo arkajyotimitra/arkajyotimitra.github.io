@@ -13,7 +13,56 @@ redirect_from:
 
 Last update: September 2025. 
 
+
 Education
+======
+* **Ph.D. in Computer Science and Engineering**, University of Texas at Arlington, USA — *Expected 2025*  
+  GPA: 3.9/4.0  
+* **M.Tech. in Computer Science and Engineering**, Indian Institute of Technology (Indian School of Mines), Dhanbad, India — *2019*  
+  CGPA: 8.65/10  
+* **B.Tech. in Computer Science and Engineering**, Kalyani Government Engineering College, India — *2016*  
+
+Work Experience
+======
+* **Graduate Teaching Assistant / Research Assistant**, University of Texas at Arlington — *Aug 2020 – Present*  
+  - Conduct research in the [Cyber-Physical Systems Security (CSS) Lab](https://csslab.uta.edu), applying vision-language models for autonomous driving and improving latent representations for seamless navigation.  
+  - Mentor undergraduate and master’s students, collaboratively publish papers, and manage lab projects.  
+  - Teaching duties: grading, labs, and conducting doubt-solving sessions.  
+
+* **Teaching Assistant**, Indian Institute of Technology (ISM), Dhanbad — *Jul 2018 – May 2019*  
+  - Assisted in courses under multiple faculty members, gaining teaching and organizational experience.  
+
+Research Interests
+======
+* Security and robustness of perception systems in cyber-physical and autonomous systems.  
+* Vision-Language Models (VLMs) for robust scene understanding.  
+* Generative modeling (Flow Matching, Diffusion) for environment and point cloud reconstruction.  
+* 3D scene reconstruction using Gaussian Splatting (3DGS).  
+
+
+Technical Skills
+======
+* **Programming & Tools:** Python, MATLAB, C++, C, CARLA (simulator).  
+* **Frameworks:** PyTorch, TensorFlow, Diffusers, Transformers.  
+* **Research Competencies:** Research article writing, critical thinking, generative modeling, security analysis.  
+
+Awards & Scholarships
+======
+* Travel Grant — VehicleSec 2025, 2024  
+* Travel Grant — TAPIA 2023  
+* Travel Grant — CyberTractor Workshop 2022  
+* Travel Grant — CyberTruck Workshop 2022  
+* Best Paper Award — AutoSec 2022  
+* Second Best Paper Award — Computer Society of India (CSI), 2016  
+
+Service & Leadership
+======
+* Volunteer — *USENIX VehicleSec 2024*  
+* Volunteer — *SC 2022*  
+* Core Volunteer — SCRF & OurCS@DFW (2022)  
+* Organized Workshops — “SmartHome” (2022), “VehicleSec” (2023, 2024) at OurCS@DFW 
+
+<!-- Education
 ======
 * Ph.D in CSE, University of Texas at Arlington (UTA), 2025 (expected)
 * M.Tech. in CSE, Indian Institute of Technology (Indian School of Mines) Dhanbad, 2019
@@ -33,7 +82,7 @@ Skills
 ======
 * Research article writing
 * Critical Thinking
-* Coding
+* Coding -->
 
 <!-- Publications
 ======
