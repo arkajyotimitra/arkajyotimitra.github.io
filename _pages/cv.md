@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- You can find my CV [here]("arkajyotimitra.github.io/files/CV_Arkajyoti_Mitra_research_vision.pdf") -->
+You can find my CV [here]("https://github.com/arkajyotimitra/arkajyotimitra.github.io/blob/master/files/CV_Arkajyoti_Mitra_research_vision.pdf")
 
 Education
 ======
