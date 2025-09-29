@@ -17,6 +17,14 @@ My research is anchored in three central thrusts:
 * **Adaptability** — enriching latent representations through multimodal integration to improve scene understanding.
 
 
+### Latest News
+- **August 2025** — Received travel grant to attend **USENIX VehicleSec’25**.
+- **August 2025** — *Beyond the Glow* got accepted at **USENIX VehicleSec’25**.
+- **July 2025** — *FedVLM* got accepted at **ECAI’25**.
+- **July 2025** — *DAPS-AGF* got accepted at **ICCV 2025 E2E3DL Workshop**.
+
+
+
 <!-- My research focus lies in developing attack vectors and defenses to ensure that autonomous vehicles can navigate safely in adversarial terrain. <br />
 I am part of [Cyber-physical Systems Security (CSS)](https://csslab.uta.edu) lab where I pursue my research under the guidance of Dr. Habeeb Olufowobi.  -->
 
