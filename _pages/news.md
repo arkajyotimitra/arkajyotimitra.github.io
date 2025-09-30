@@ -10,19 +10,28 @@ redirect_from:
 {% include base_path %}
 
 ### News
-- **August 2025** — Received travel grant to attend USENIX VehicleSec’25.
-- **August 2025** — *Beyond the Glow* got accepted at **USENIX VehicleSec’25**.
-- **July 2025** — *FedVLM* got accepted at **ECAI’25**.
+- **August 2025** — Received travel grant to attend **USENIX VehicleSec’25**.
+- **August 2025** — Our paper *Beyond the Glow: Understanding Luminescent Marker Behavior Against Autonomous Vehicle Perception Systems* got accepted at **USENIX VehicleSec’25**.
+- **July 2025** — Our paper *FedVLM: Scalable Personalized Vision-Language Models through Federated Learning* got accepted at **ECAI’25**.
 - **July 2025** — *DAPS-AGF* got accepted at **ICCV 2025 E2E3DL Workshop**.
-- **May 2025** — I was selected as reviewer for BMVC 2025.
+- **May 2025** — I was selected as reviewer for **BMVC 2025**.
 - **April 2025** — Led our team in the **MITRE eCTF'25** for Secure Sattelite Television.
 - **April 2024** — Led our team in the **MITRE eCTF'24** for Secure Medical Device.
-- **February 2024** — Travel grant for **VehicleSec’24**.
-- **September 2023** — Travel grant for **TAPIA’23**.
-- **April 2022** — Received **Best Paper** award at **AutoSec’22** for our paper on CAN IDS framework.
+- **February 2024** — Our paper *Towards named data networking technology: Emerging applications, use cases, and challenges for secure data communication* got published in the **Future Generation Computer Systems** journal.
+- **February 2024** — Received travel grant for attending **NDSS VehicleSec’24**.
+- **February 2024** — Joined student volunteer team at **NDSS VehicleSec’24**.
+- **February 2024** — Our workshop at OurCS@DFW was a great success. Topic was around adversarial attack leveraging diffusion models on perception model of self-driving car. 
+- **January 2024** — Our article *AutoWatch: Learning Driver Behavior with Graphs for Auto Theft Detection and Situational Awareness* was accepted to **VehicleSec'24**.
+- **September 2023** — Received travel grant for attending **TAPIA’23**.
+- **February 2023** — Our workshop on "VehicleSec" at OurCS@DFW was a great success. Topic was around CAN IDS framework on Internet of Vehicles. 
+- **November 2022** — Volunteered for **SC'22**.
 - **July 2022** — Cybersecurity workshops: 2nd place in **CyberTractor Challenge**.
-- **Jun 2022** — Cybersecurity workshops at **CyberTruck Challenge**.
-
+- **July 2022** — Our paper *Survey of Interoperability Challenges in the Internet of Vehicles* got accepted in the **Transactions of Intelligent Transportation Systems**.
+- **June 2022** — Cybersecurity workshops at **CyberTruck Challenge**.
+- **April 2022** — Our paper received **Best Paper** award at **AutoSec’22**. 
+- **February 2022** — Our workshop on "SmartHome" at OurCS@DFW was a great success. The team received honorable mention for the best workshops. 
+- **February 2022** — Joined core volunteer team to organize OurCS@DFW. 
+- **February 2022** — Our paper *A Framework for Consistent and Repeatable Controller Area Network IDS Evaluation* got accepted in **AutoSec’22**.
  
 
 <!-- Education
