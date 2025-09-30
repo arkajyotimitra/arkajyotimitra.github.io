@@ -14,7 +14,8 @@ redirect_from:
 - **August 2025** — Our paper *Beyond the Glow: Understanding Luminescent Marker Behavior Against Autonomous Vehicle Perception Systems* got accepted at **USENIX VehicleSec’25**.
 - **July 2025** — Our paper *FedVLM: Scalable Personalized Vision-Language Models through Federated Learning* got accepted at **ECAI’25**.
 - **July 2025** — *DAPS-AGF* got accepted at **ICCV 2025 E2E3DL Workshop**.
-- **May 2025** — I was selected as reviewer for **BMVC 2025**.
+- **July 2025** — Selected as reviewer for **RTSS 2025**.
+- **May 2025** — Selected as reviewer for **BMVC 2025**.
 - **April 2025** — Led our team in the **MITRE eCTF'25** for Secure Sattelite Television.
 - **April 2024** — Led our team in the **MITRE eCTF'24** for Secure Medical Device.
 - **February 2024** — Our paper *Towards named data networking technology: Emerging applications, use cases, and challenges for secure data communication* got published in the **Future Generation Computer Systems** journal.
