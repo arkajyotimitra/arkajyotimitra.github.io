@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### News
+### 2025
 - **August 2025** — Received travel grant to attend **USENIX VehicleSec’25**.
 - **August 2025** — Our paper *Beyond the Glow: Understanding Luminescent Marker Behavior Against Autonomous Vehicle Perception Systems* got accepted at **USENIX VehicleSec’25**.
 - **July 2025** — Our paper *FedVLM: Scalable Personalized Vision-Language Models through Federated Learning* got accepted at **ECAI’25**.
@@ -17,14 +17,20 @@ redirect_from:
 - **July 2025** — Selected as reviewer for **RTSS 2025**.
 - **May 2025** — Selected as reviewer for **BMVC 2025**.
 - **April 2025** — Led our team in the **MITRE eCTF'25** for Secure Sattelite Television.
+
+### 2024
 - **April 2024** — Led our team in the **MITRE eCTF'24** for Secure Medical Device.
 - **February 2024** — Our paper *Towards named data networking technology: Emerging applications, use cases, and challenges for secure data communication* got published in the **Future Generation Computer Systems** journal.
 - **February 2024** — Received travel grant for attending **NDSS VehicleSec’24**.
 - **February 2024** — Joined student volunteer team at **NDSS VehicleSec’24**.
 - **February 2024** — Our workshop at OurCS@DFW was a great success. Topic was around adversarial attack leveraging diffusion models on perception model of self-driving car. 
 - **January 2024** — Our article *AutoWatch: Learning Driver Behavior with Graphs for Auto Theft Detection and Situational Awareness* was accepted to **VehicleSec'24**.
+
+### 2023
 - **September 2023** — Received travel grant for attending **TAPIA’23**.
 - **February 2023** — Our workshop on "VehicleSec" at OurCS@DFW was a great success. Topic was around CAN IDS framework on Internet of Vehicles. 
+
+### 2022
 - **November 2022** — Volunteered for **SC'22**.
 - **July 2022** — Cybersecurity workshops: 2nd place in **CyberTractor Challenge**.
 - **July 2022** — Our paper *Survey of Interoperability Challenges in the Internet of Vehicles* got accepted in the **Transactions of Intelligent Transportation Systems**.

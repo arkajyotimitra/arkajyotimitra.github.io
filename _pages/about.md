@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Ph.D. candidate in Computer Science and Engineering ([CSE](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse)) at the University of Texas at Arlington, working in the [Cyber-Physical Systems Security (CSS) Lab](https://csslab.uta.edu) under the guidance of Dr. Habeeb Olufowobi. My research lies at the intersection of **computer vision, security, and generative modeling**, with a particular focus on making autonomous perception systems robust against adversarial conditions.
+I am a Ph.D. candidate in Computer Science and Engineering ([CSE](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse)) at the University of Texas at Arlington, working in the [Cyber-Physical Systems Security (CSS) Lab](https://csslab.uta.edu) under the guidance of [Dr. Habeeb Olufowobi](https://dipupo.github.io/). My research lies at the intersection of **computer vision, security, and generative modeling**, with a particular focus on making autonomous perception systems robust against adversarial conditions.
 
 My research is anchored in three central thrusts: 
 * **Robustness** — analyzing and defending autonomous vehicle perception models against adversarial threats.

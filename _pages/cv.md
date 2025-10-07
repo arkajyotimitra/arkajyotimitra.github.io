@@ -41,12 +41,13 @@ Research Interests
 Technical Skills
 ======
 * **Programming & Tools:** Python, MATLAB, C++, C, CARLA (simulator).  
-* **Frameworks:** PyTorch, TensorFlow, Diffusers, Transformers.  
+* **Frameworks:** PyTorch, TensorFlow, Diffusers, Transformers, OpenCV.  
 * **Research Competencies:** Research article writing, critical thinking, generative modeling, security analysis.  
 
 Awards & Scholarships
 ======
-* Travel Grant — VehicleSec 2025, 2024  
+* Travel Grant — VehicleSec 2025
+* Travel Grant — VehicleSec 2024
 * Travel Grant — TAPIA 2023  
 * Travel Grant — CyberTractor Workshop 2022  
 * Travel Grant — CyberTruck Workshop 2022  
@@ -57,7 +58,7 @@ Service & Leadership
 ======
 * Volunteer — *NDSS VehicleSec 2024*  
 * Volunteer — *SC 2022*  
-* Core Volunteer — SCRF & OurCS@DFW (2022)  
+* Volunteer — SCRF & OurCS@DFW (2022)  
 * Organized Workshops at UTArlington — “SmartHome” (2022), “VehicleSec” (2023, 2024) at OurCS@DFW 
 
 <!-- Education
