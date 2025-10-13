@@ -15,6 +15,7 @@ redirect_from:
 - **July 2025** — Our paper *FedVLM: Scalable Personalized Vision-Language Models through Federated Learning* got accepted at **ECAI’25**.
 - **July 2025** — *DAPS-AGF* got accepted at **ICCV 2025 E2E3DL Workshop**.
 - **July 2025** — Selected as reviewer for **RTSS 2025**.
+- **June 2025** - Honored to receive Summer Research Fellowship from UTA. 
 - **May 2025** — Selected as reviewer for **BMVC 2025**.
 - **April 2025** — Led our team in the **MITRE eCTF'25** for Secure Sattelite Television.
 
