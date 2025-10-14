@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 [PDF]({{ '/files/CV_Arkajyoti_Mitra_2025.pdf' | relative_url }})
-Last update: September 2025. 
+Last update: October 2025. 
 
 Education
 ======
