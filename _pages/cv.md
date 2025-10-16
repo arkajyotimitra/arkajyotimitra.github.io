@@ -16,7 +16,7 @@ Education
 ======
 * **Ph.D. in Computer Science and Engineering**, University of Texas at Arlington, USA — *Expected 2025*  
 
-* **M.Tech. in Computer Science and Engineering**, Indian Institute of Technology (Indian School of Mines), Dhanbad, India — *2019*  
+* **M.Tech. in Computer Science and Engineering**, Indian Institute of Technology, Dhanbad, India — *2019*  
 
 * **B.Tech. in Computer Science and Engineering**, Kalyani Government Engineering College, India — *2016*  
 
