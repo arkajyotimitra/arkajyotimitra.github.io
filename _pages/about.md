@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 
-I am a Ph.D. candidate in Computer Science and Engineering ([CSE](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse)) at the University of Texas at Arlington, working in the [Cyber-Physical Systems Security (CSS) Lab](https://csslab.uta.edu) under the guidance of [Dr. Habeeb Olufowobi](https://dipupo.github.io/). My research lies at the intersection of **computer vision, security, and generative modeling**, with a particular focus on making autonomous perception systems robust against adversarial conditions.
+I am a Ph.D. candidate in Computer Science and Engineering ([CSE](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse)) at the University of Texas at Arlington, working in the [Cyber-Physical Systems Security (CSS) Lab](https://csslab.uta.edu) under the guidance of [Dr. Habeeb Olufowobi](https://dipupo.github.io/). My research lies at the intersection of **computer vision, security, and generative modeling**, with a particular focus on autonomous vehicular perception systems (AVPS).
 
 My research is anchored in three central thrusts: 
-* **Robustness** — analyzing and defending autonomous vehicle perception models against adversarial threats.
+* **Robustness** — analyzing and defending AVPS against adversarial threats.
 * **Scalability & Personalization** — advancing federated fine-tuning of vision–language models with personalized adaptation.
 * **Adaptability** — enriching latent representations through multimodal integration to improve scene understanding.
 
