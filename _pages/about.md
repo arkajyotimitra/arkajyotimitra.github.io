@@ -18,7 +18,7 @@ My research is anchored in three central thrusts:
 
 
 ### Latest News
-- **August 2025** - Recieved travel grant to attend **PyTorch Conference'25**.
+- **August 2025** - Received travel grant to attend **PyTorch Conference'25**.
 - **August 2025** — Received travel grant to attend **USENIX VehicleSec’25**.
 - **August 2025** — Our paper *Beyond the Glow: Understanding Luminescent Marker Behavior Against Autonomous Vehicle Perception Systems* got accepted at **USENIX VehicleSec’25**.
 - **July 2025** — Our paper *FedVLM: Scalable Personalized Vision-Language Models through Federated Learning* got accepted at **ECAI’25**.
