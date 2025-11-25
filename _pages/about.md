@@ -18,12 +18,12 @@ My research is anchored in three central thrusts:
 
 
 ### Latest News
+- **November 2025** - Our paper *Unveiling Graph Copycats: Inference Attacks with Student Models* got accepted at **Privacy Enhancing Technologies Symposium (PETS)**.
+- **November 2025** - Our paper *Towards Enhanced Sparse-View Tomographic Reconstruction Using 3D Gaussian Splatting* got accepted at **International Conference on 3D Vision (3DV)**.
 - **August 2025** - Received travel grant to attend **PyTorch Conference'25**.
 - **August 2025** — Received travel grant to attend **USENIX VehicleSec’25**.
 - **August 2025** — Our paper *Beyond the Glow: Understanding Luminescent Marker Behavior Against Autonomous Vehicle Perception Systems* got accepted at **USENIX VehicleSec’25**.
 - **July 2025** — Our paper *FedVLM: Scalable Personalized Vision-Language Models through Federated Learning* got accepted at **ECAI’25**.
-- **July 2025** — *DAPS-AGF* got accepted at **ICCV 2025 E2E3DL Workshop**.
-
 
 
 <!-- My research focus lies in developing attack vectors and defenses to ensure that autonomous vehicles can navigate safely in adversarial terrain. <br />

@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 [PDF]({{ '/files/CV_Arkajyoti_Mitra_2025.pdf' | relative_url }})
-Last update: October 2025. 
+Last update: November 2025. 
 
 Education
 ======
@@ -46,6 +46,7 @@ Technical Skills
 
 Awards & Scholarships
 ======
+* Travel Grant — Pytorch Conference 2025
 * Travel Grant — VehicleSec 2025
 * Travel Grant — VehicleSec 2024
 * Travel Grant — TAPIA 2023  
