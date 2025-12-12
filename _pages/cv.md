@@ -10,11 +10,11 @@ redirect_from:
 {% include base_path %}
 
 [PDF]({{ '/files/CV_Arkajyoti_Mitra_2025.pdf' | relative_url }})
-Last update: November 2025. 
+Last update: December 2025. 
 
 Education
 ======
-* **Ph.D. in Computer Science and Engineering**, University of Texas at Arlington, USA — *Expected 2025*  
+* **Ph.D. in Computer Science and Engineering**, University of Texas at Arlington, USA — *2025*  
 
 * **M.Tech. in Computer Science and Engineering**, Indian Institute of Technology, Dhanbad, India — *2019*  
 
