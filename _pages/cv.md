@@ -22,7 +22,7 @@ Education
 
 Work Experience
 ======
-* **Graduate Teaching Assistant / Research Assistant**, University of Texas at Arlington — *Aug 2020 – Present*  
+* **Graduate Teaching Assistant / Research Assistant**, University of Texas at Arlington — *Aug 2020 – Dec 2025*  
   - Conduct research in the [CSS Lab](https://csslab.uta.edu), applying vision-language models for autonomous driving and improving latent representations for seamless navigation.  
   - Mentor undergraduate and master’s students, collaboratively publish papers, and manage lab projects.  
   - Teaching duties: grading, labs, and conducting doubt-solving sessions.  

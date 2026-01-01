@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Ph.D. candidate in Computer Science and Engineering ([CSE](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse)) at the University of Texas at Arlington, working in the [Cyber-Physical Systems Security (CSS) Lab](https://csslab.uta.edu) under the guidance of [Dr. Habeeb Olufowobi](https://dipupo.github.io/). My research lies at the intersection of **computer vision, security, and generative modeling**, with a particular focus on autonomous vehicular perception systems (AVPS).
+My research lies at the intersection of **computer vision, cyber physical systems security, and generative modeling**, with a particular focus on autonomous vehicular perception systems (AVPS). I received my Ph.D. in Computer Science and Engineering ([CSE](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse)) from the University of Texas at Arlington, where I worked in the [Cyber-Physical Systems Security (CSS) Lab](https://csslab.uta.edu) advised by [Dr. Habeeb Olufowobi](https://dipupo.github.io/). I am actively seeking research opportunities and open to collaborate on interesting projects.
 
 My research is anchored in three central thrusts: 
 * **Robustness** — analyzing and defending AVPS against adversarial threats.
