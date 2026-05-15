@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+### 2026
+- **February 2026** - Our paper *A Collaborative Distillation Framework for Graph Neural Networks* got accepted at **European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN)**.
 
 ### 2025
 - **November 2025** - Our paper *Unveiling Graph Copycats: Inference Attacks with Student Models* got accepted at **Privacy Enhancing Technologies Symposium (PETS)**.

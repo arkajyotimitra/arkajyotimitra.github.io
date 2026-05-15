@@ -7,17 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
-My research lies at the intersection of **computer vision, cyber physical systems security, and generative modeling**, with a particular focus on autonomous vehicular perception systems (AVPS). I received my Ph.D. in Computer Science and Engineering ([CSE](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse)) from the University of Texas at Arlington, where I worked in the [Cyber-Physical Systems Security (CSS) Lab](https://csslab.uta.edu) advised by [Dr. Habeeb Olufowobi](https://dipupo.github.io/). I am actively seeking research opportunities and open to collaborate on interesting projects.
-
-My research is anchored in three central thrusts: 
-* **Robustness** — analyzing and defending AVPS against adversarial threats.
-* **Scalability & Personalization** — advancing federated fine-tuning of vision–language models with personalized adaptation.
-* **Adaptability** — enriching latent representations through multimodal integration to improve scene understanding.
-
+I'm a Postdoctoral Researcher in the [Deep Learning for Precision Health Lab](https://montillolab.org) at [UT Southwestern Medical Center](https://www.utsouthwestern.edu/), working with [Dr. Albert Montillo](https://profiles.utsouthwestern.edu/profile/163266/albert-montillo.html) to develop foundation models for neuroimage analysis — curating pre-training datasets and designing optimization pipelines for downstream tasks like segmentation and classification. My broader interests span medical imaging, vision-language models, generative modeling, and 3D reconstruction. I completed my PhD in Computer Science at [UT Arlington](https://www.uta.edu/) under [Dr. Habeeb Olufowobi](https://www.uta.edu/academics/faculty/profile?user=habeeb.olufowobi) at the [Cyber-Physical System Security Lab](https://csslab.uta.edu/), where I worked on VLMs and autonomous vehicular perception systems (AVPS) for driving.
 
 ### Latest News
+- **February 2026** - Our paper *A Collaborative Distillation Framework for Graph Neural Networks* got accepted at **European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN)**.
 - **November 2025** - Our paper *Unveiling Graph Copycats: Inference Attacks with Student Models* got accepted at **Privacy Enhancing Technologies Symposium (PETS)**.
 - **November 2025** - Our paper *Towards Enhanced Sparse-View Tomographic Reconstruction Using 3D Gaussian Splatting* got accepted at **International Conference on 3D Vision (3DV)**.
 - **August 2025** - Received travel grant to attend **PyTorch Conference'25**.
